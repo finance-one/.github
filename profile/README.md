@@ -1,1 +1,2 @@
-FinanceOne
+# Finance One
+Your Sole Wallet
